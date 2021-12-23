@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+.border{
+    padding: 10px;
+}
+.btn{
+    margin-right: 10px;
+}
+.fa button{
+    font-size: 20px;
+    margin-right: 10px;
+}
